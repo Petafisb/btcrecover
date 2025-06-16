@@ -2,3 +2,4 @@ mkdocs-autolinks-plugin
 mkdocs-include-markdown-plugin==5.1.0
 mkdocs-material
 mkdocs-git-committers-plugin
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
